@@ -2,8 +2,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import LOTR.Character;
-import LOTR.Hobbit;
-import LOTR.Elf;
+import LOTR.*;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
